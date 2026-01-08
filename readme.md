@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Ray%20%C3%9Cnal&fontSize=50&fontColor=fff&animation=twinkling)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Greetings%2C+Digital+Explorer!;Welcome+to+my+Cloud+Base.;Let's+Build+Something+Amazing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Platform+Engineer;DevOps+Enthusiast;Legacy+Modernization+Expert;Building+the+Future+on+Azure." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,7 +11,9 @@
 
 </div>
 
-Welcome to my corner of the internet, where I build clouds ☁️, architect solutions 🏗️, and occasionally debate the finer points of Azure Bicep vs. Terraform with my reflection.
+## 👋 About Me
+
+I am a **Senior Cloud Architect** at **Bechtle**, dedicated to architectural excellence and the evolution of modern IT landscapes. My mission is to bridge the gap between complex legacy systems and the agility of the cloud through **Platform Engineering** and robust **DevOps** practices.
 
 <div align="center">
 
@@ -20,57 +22,44 @@ Welcome to my corner of the internet, where I build clouds ☁️, architect sol
 
 </div>
 
-## 📑 Table of Contents
+---
 
-- 📊 GitHub Stats & Activity
-- 🏆 GitHub Trophies
-- 🚀 Current Mission: Partner Success!
-- 🛠️ Arsenal of Choice
-- 💪 Skills & Expertise
-- 📂 Featured Projects
-- 📫 Connect with Me
-- 🏅 Certifications
-- 🎲 Fun Fact
-- 💭 Quote of the Moment
-- 📈 Contribution Graph
-- 🐍 Watch My Contribution Snake Eat My Commits!
+## 🏢 Working at Bechtle
 
-## 🏆 GitHub Trophies
+As part of the Bechtle team, I help our customers navigate their digital transformation. My daily work involves:
+- 🏗️ **Strategic Consulting:** Designing enterprise-grade Azure architectures.
+- 🚀 **Customer Success:** Directly engaging with clients to solve their most complex cloud challenges.
+- 💡 **Innovation:** Implementing cutting-edge technologies to drive business outcomes.
 
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ray-uenal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="ray-uenal" />
-</a>
-</div>
+## 🚀 Current Mission: Platform Excellence
 
-## 🚀 Current Mission: Partner Success!
+Mein Fokus liegt darauf, die Komplexität der Cloud für Kunden zu abstrahieren. Ich unterstütze Unternehmen dabei, von starren Legacy-Strukturen zu agilen, automatisierten **Platform Engineering** Ansätzen zu wechseln. 
 
-My primary directive is to team up with strategic partners and help them unlock the immense power of Microsoft Azure. Think of me as their guide through the cloud wilderness, armed with technical expertise and a map (that's constantly being updated, of course).
-
-I spend my days (and sometimes nights, fueled by questionable amounts of caffeine ☕) diving deep into technical discussions, ensuring our partners can leverage Azure to its fullest potential. I troubleshoot anomalies 👾, strategize deployments, and act as a bridge between partner needs and Microsoft's cloud capabilities.
+Ich verbringe meine Tage damit, CI/CD-Pipelines zu perfektionieren, Infrastruktur als Code (IaC) zu standardisieren und Migrationsstrategien zu entwerfen, die nicht nur "Lift & Shift" sind, sondern echte Modernisierung bieten.
 
 ## 🛠️ Arsenal of Choice
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-<!-- Füge weitere Badges hier hinzu -->
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Core Competencies
 
-- ☁️ **Azure**: Compute, Networking, Storage, Identity, Kubernetes (AKS), App Services, Databases, Serverless (Functions, Logic Apps), DevOps Tooling, Monitoring, and Security — the foundation for scalable, resilient, and enterprise-grade architectures.
-- 🤝 **Partner Enablement**: Empowering teams and partners to harness Azure effectively through knowledge sharing, solution design, and hands-on guidance.
-- 🗣️ **Technical Leadership**: Translating complex technical concepts into actionable strategies, reference architectures, and best practices that drive business outcomes.
-- 🛡️ **Compliance**: Designing Zero Trust architectures, implementing governance at scale, and ensuring deployments are secure, compliant, and cost-optimized.
-- 📈 **Innovation Accelerator**: Unlock the full potential of Microsoft technologies — from AI and Data to Hybrid Cloud, FinOps, and beyond — driving scalable innovation and sustainable growth.
+- 🏗️ **Platform Engineering**: Aufbau von Internal Developer Platforms (IDP) für maximale Entwickler-Produktivität.
+- 🚀 **Cloud Modernization**: Refactoring von Legacy-Anwendungen für Container (AKS) und Serverless-Szenarien.
+- ⚙️ **DevOps & Automation**: End-to-End Automatisierung von Provisionierung und Deployment.
+- 🛡️ **Cloud Governance**: Sicherheit und Compliance durch Zero-Trust-Architekturen und Azure Policies.
 
 ## 💪 Skills & Expertise
 
 ```text
-Azure Architecture    ████████████████████░   95%
-Cloud Security        ███████████████████░░   90%
-Infrastructure as Code████████████████████░   95%
-Partner Enablement    ████████████████████░   95%
-DevOps & Automation   ██████████████████░░░   85%
-Kubernetes & Containers███████████████████░░   90%
-Networking            ██████████████████░░░   85%
-Identity & Access     ████████████████████░   90%
+Platform Engineering  ████████████████████░   95%
+Azure Migration       ███████████████████░░   90%
+Infrastruktur as Code ████████████████████░   95%
+DevOps (CI/CD)        ████████████████████░   95%
+Azure Architecting    ████████████████████░   95%
+PowerShell Scripting  ██████████████████░░░   85%
+Legacy App Refactoring ██████████████████░░░   85%
