@@ -33,9 +33,9 @@ As part of the Bechtle team, I help our customers navigate their digital transfo
 
 ## 🚀 Current Mission: Platform Excellence
 
-Mein Fokus liegt darauf, die Komplexität der Cloud für Kunden zu abstrahieren. Ich unterstütze Unternehmen dabei, von starren Legacy-Strukturen zu agilen, automatisierten **Platform Engineering** Ansätzen zu wechseln. 
+My primary focus is abstracting cloud complexity for customers. I support organizations in shifting from rigid legacy structures to agile, automated **Platform Engineering** approaches.
 
-Ich verbringe meine Tage damit, CI/CD-Pipelines zu perfektionieren, Infrastruktur als Code (IaC) zu standardisieren und Migrationsstrategien zu entwerfen, die nicht nur "Lift & Shift" sind, sondern echte Modernisierung bieten.
+I spend my days perfecting CI/CD pipelines, standardizing Infrastructure as Code (IaC), and designing migration strategies that go beyond "Lift & Shift" to deliver true modernization.
 
 ## 🛠️ Arsenal of Choice
 
@@ -48,18 +48,18 @@ Ich verbringe meine Tage damit, CI/CD-Pipelines zu perfektionieren, Infrastruktu
 
 ### Core Competencies
 
-- 🏗️ **Platform Engineering**: Aufbau von Internal Developer Platforms (IDP) für maximale Entwickler-Produktivität.
-- 🚀 **Cloud Modernization**: Refactoring von Legacy-Anwendungen für Container (AKS) und Serverless-Szenarien.
-- ⚙️ **DevOps & Automation**: End-to-End Automatisierung von Provisionierung und Deployment.
-- 🛡️ **Cloud Governance**: Sicherheit und Compliance durch Zero-Trust-Architekturen und Azure Policies.
+- 🏗️ **Platform Engineering**: Building Internal Developer Platforms (IDP) for maximum developer productivity.
+- 🚀 **Cloud Modernization**: Refactoring legacy applications for Container (AKS) and Serverless scenarios.
+- ⚙️ **DevOps & Automation**: End-to-end automation of provisioning and deployment.
+- 🛡️ **Cloud Governance**: Ensuring security and compliance through Zero Trust architectures and Azure Policies.
 
 ## 💪 Skills & Expertise
 
 ```text
 Platform Engineering  ████████████████████░   95%
 Azure Migration       ███████████████████░░   90%
-Infrastruktur as Code ████████████████████░   95%
+Infrastructure as Code████████████████████░   95%
 DevOps (CI/CD)        ████████████████████░   95%
 Azure Architecting    ████████████████████░   95%
 PowerShell Scripting  ██████████████████░░░   85%
-Legacy App Refactoring ██████████████████░░░   85%
+Legacy App Refactoring██████████████████░░░   85%
