@@ -24,7 +24,7 @@ I am a **Senior Cloud Architect** at **Bechtle**, dedicated to architectural exc
 
 ---
 
-## 🏢 Working at Bechtle
+## Working at Bechtle
 
 As part of the Bechtle team, I help our customers navigate their digital transformation. My daily work involves:
 - 🏗️ **Strategic Consulting:** Designing enterprise-grade Azure architectures.
@@ -37,7 +37,7 @@ My primary focus is abstracting cloud complexity for customers. I support organi
 
 I spend my days perfecting CI/CD pipelines, standardizing Infrastructure as Code (IaC), and designing migration strategies that go beyond "Lift & Shift" to deliver true modernization.
 
-## 🛠️ Arsenal of Choice
+## Arsenal of Choice
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -53,10 +53,8 @@ I spend my days perfecting CI/CD pipelines, standardizing Infrastructure as Code
 - ⚙️ **DevOps & Automation**: End-to-end automation of provisioning and deployment.
 - 🛡️ **Cloud Governance**: Ensuring security and compliance through Zero Trust architectures and Azure Policies.
 
-## 🏅 Certifications
 
-
-## 💪 Skills & Expertise
+## Skills & Expertise
 
 ```text
 Platform Engineering  ████████████████████░   95%
