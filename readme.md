@@ -48,10 +48,13 @@ I spend my days perfecting CI/CD pipelines, standardizing Infrastructure as Code
 
 ### Core Competencies
 
-- 🏗️ **Platform Engineering**: Building Internal Developer Platforms (IDP) for maximum developer productivity.
-- 🚀 **Cloud Modernization**: Refactoring legacy applications for Container (AKS) and Serverless scenarios.
+- 🏗️ **Platform Engineering**: Building Azure Landing Zones for maximum Resilience and Performance.
+- 🚀 **Cloud Modernization**: Refactoring legacy applications for Container and Serverless scenarios.
 - ⚙️ **DevOps & Automation**: End-to-end automation of provisioning and deployment.
 - 🛡️ **Cloud Governance**: Ensuring security and compliance through Zero Trust architectures and Azure Policies.
+
+## 🏅 Certifications
+
 
 ## 💪 Skills & Expertise
 
